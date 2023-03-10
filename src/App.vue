@@ -5,7 +5,7 @@
 </template>
 
 <style lang="scss">
-// @import "src/assets/css/common.scss";
+@import 'src/assets/css/common.scss';
 
 .main-app {
   width: 100%;
